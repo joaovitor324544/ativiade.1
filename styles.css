@@ -161,6 +161,6 @@ h2 {
     display: flex;
     flex-direction: column;
 }
-opcoes-acessibilidade button{
+.opcoes-acessibilidade button{
     margin-bottom: 5px;
 }
