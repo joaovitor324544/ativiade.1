@@ -188,3 +188,12 @@ h2 {
     background-color: var(--alto-contraste-link);
     color:var(--alo-contraste-fundo);
 }
+.alto-contraste #tropicalia{
+    background: none;
+}
+.alto-contraste #galeria{
+    background: var(--alo-contraste-fundo);
+}
+.alto-contraste .fundo-galeria{
+    background: none;
+}
