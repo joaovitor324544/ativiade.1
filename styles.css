@@ -34,7 +34,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/paisagem.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -52,6 +52,10 @@ section {
     top: 18rem;
     width: 45rem;
     height: auto;
+} 
+.img-fluid{
+
+    height: 310px;
 }
 
 
